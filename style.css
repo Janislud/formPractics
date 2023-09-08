@@ -1,0 +1,142 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+
+form {
+    background-color: #f6fbf9;
+}
+
+html {
+    width: 2560px;
+}
+
+body {
+    width: 2560px;
+    background-color: #A7D7C5;
+}
+
+form {
+    width: 698px;
+    height: 600px;
+    border-radius: 50px;
+    position: absolute;
+    margin-left: 484px;
+    padding-top: 47px;
+    
+}
+
+.sing-in-wrapper {
+    display: flex;
+    flex-direction: column;
+    text-align:center;
+}
+.sing-in-wrapper h1 {
+    margin-top:25px;
+    width: 483px;
+    flex-shrink: 0;
+    text-align: center;
+    color: #212b27;
+    font-family: 'Karla', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 55px;
+}
+
+.create  {
+    margin-top:25px;
+    margin-bottom:25px;
+    font-family: 'Karla';
+    width: 472px;
+    height: 59px;
+    flex-shrink: 0;
+    color: #32403b;
+    text-align: center;
+    font-size:24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 29px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.email {
+width: 350px;
+margin-left: auto;
+margin-right: auto;
+border-radius: 5px;
+margin-bottom: 10px;
+padding:10px 0px 10px 10px;
+border: 15px;
+font-family: 'Karla', sans-serif;
+}
+
+.password {
+    width: 350px;
+margin-left: auto;
+margin-right: auto;
+border-radius: 5px;
+margin-bottom: 25px;
+padding:10px 0px 10px 10px;
+border: 15px;
+font-family: 'Karla', sans-serif;
+}
+
+.sing-in-wrapper button {
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:25px;
+    padding:20px 0px 20px 0px;
+    border: 15px;
+    border-radius: 10px;
+    background-color: #84C7AE;
+    font-family: 'Karla', sans-serif;
+    margin-bottom: 45px;
+    color: white;
+}
+.alredy {
+    width: 400px;
+    height: 29px;
+    flex-shrink: 0;
+    color:#32403b;
+    text-align: center;
+    font-family: 'Karla', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    /* line-height: 27px;
+    text-decoration: underline; */
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+a {
+    color: black;
+    padding-left:5px;
+    font-family: 'Karla', sans-serif;
+    text-decoration: underline; 
+}
+
+.rectangel8 {
+    position: absolute;
+    /* top: 50px; */
+    /* left: 0; */
+    margin-left: 220px;
+    margin-top: -230px;
+    width: 950px;
+   
+}
+
+.rectangel7 {
+    margin-left: 900px;
+    margin-top: 310px;
+    
+}
+
+.position-div {
+    margin-top:220px;
+}
